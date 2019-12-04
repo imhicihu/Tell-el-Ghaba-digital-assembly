@@ -31,6 +31,10 @@ This README would normally document whatever steps are necessary to get your app
 * Repo owner or admin
 * Other community or team contact
 
+### Code of Conduct
+
+* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/tell-el-ghaba-digital-assembly/src/master/code_of_conduct.md)
+
 
 ### Legal ###
 
