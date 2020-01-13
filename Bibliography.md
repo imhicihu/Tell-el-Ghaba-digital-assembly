@@ -1,0 +1,1 @@
+* [ScriptUI for dummies](https://creativepro.com/files/kahrel/indesign/scriptui.html)
