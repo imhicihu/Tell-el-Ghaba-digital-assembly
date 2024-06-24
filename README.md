@@ -35,7 +35,10 @@ This README would normally document whatever steps are necessary to get your app
 
 * Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/tell-el-ghaba-digital-assembly/src/master/code_of_conduct.md)
 
+### Disclaimer
+
+* This repository is for academic purposes only. It is intended for educational and research use, and should not be used for any commercial purposes
 
 ### Legal ###
 
-* All trademarks are the property of their respective owners.
+* All trademarks are the property of their respective owners
