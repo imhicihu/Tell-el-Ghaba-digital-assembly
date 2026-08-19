@@ -5,17 +5,17 @@
 ![stability-wip](images/477405737-stability_work_in_progress.png)
 ![internaluse-green](images/3847436881-internal_use_stable.png)
 
-# README #
+## Rationale / Motivación
 
 This README would normally document whatever steps are necessary to get your application up and running.
 ![googledrive.png](https://bitbucket.org/repo/5XLMqG/images/2048962559-googledrive.png)
 
-### What is this repository for? ###
+### What is this repository for?
 
 * Quick summary
 * Version
 
-### How do I get set up? ###
+### How do I get set up?
 
 * Summary of set up
 * Configuration
@@ -24,25 +24,25 @@ This README would normally document whatever steps are necessary to get your app
 * How to run tests
 * Deployment instructions
 
-### Contribution guidelines ###
+### Contribution guidelines
 
 * Writing tests
 * Code review
 * Other guidelines
 
-### Who do I talk to? ###
+### Who do I talk to? 
 
 * Repo owner or admin
 * Other community or team contact
 
 ### Code of Conduct
 
-* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/tell-el-ghaba-digital-assembly/src/master/code_of_conduct.md)
+* Please, check our [Code of Conduct](https://github.com/imhicihu/tell-el-ghaba-digital-assembly/code_of_conduct.md)
 
 ### Disclaimer
 
 * This repository is for academic purposes only. It is intended for educational and research use, and should not be used for any commercial purposes
 
-### Legal ###
+### Legal
 
 * All trademarks are the property of their respective owners
