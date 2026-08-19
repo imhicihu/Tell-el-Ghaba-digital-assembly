@@ -1,4 +1,6 @@
-![header](images/910KZaPFQ1OOqRafiubExw.webp)
+<p align="center">
+  <img src="images/910KZaPFQ1OOqRafiubExw.webp?raw=true" alt="Logotipo de Tell-el-Ghaba-digital-assembly" weigh="400" height="400"/>
+</p>
 
 ---
 
