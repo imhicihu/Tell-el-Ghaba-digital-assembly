@@ -11,6 +11,7 @@
 
 This README would normally document whatever steps are necessary to get your application up and running.
 ![googledrive.png](https://bitbucket.org/repo/5XLMqG/images/2048962559-googledrive.png)
+![mindmap](/mindmap/Tell%20el%20Ghaba.png)
 
 ### What is this repository for?
 
