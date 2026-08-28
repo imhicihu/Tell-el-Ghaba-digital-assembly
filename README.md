@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/910KZaPFQ1OOqRafiubExw.webp?raw=true" alt="Logotipo de Tell-el-Ghaba-digital-assembly" weigh="400" height="400"/>
+  <img src="images/IMG_2515.jpg?raw=true" alt="Logotipo de Tell-el-Ghaba-digital-assembly" weight="400" height="600"/>
 </p>
 
 ---
