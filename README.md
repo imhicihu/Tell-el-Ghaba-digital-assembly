@@ -10,7 +10,7 @@
 ## Rationale / Motivación
 
 This README would normally document whatever steps are necessary to get your application up and running.
-![googledrive.png](https://bitbucket.org/repo/5XLMqG/images/2048962559-googledrive.png)
+![googledrive.png](/images/Screenshot_2026-08-29_19.47.12.png)
 ![mindmap](/mindmap/Tell%20el%20Ghaba.png)
 
 ### What is this repository for?
