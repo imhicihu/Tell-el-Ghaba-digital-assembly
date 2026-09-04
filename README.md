@@ -11,12 +11,14 @@
 
 A bunch of `.pdf` files containing a plethora of profiles and a master file
 ![googledrive.png](/images/Screenshot_2026-08-29_19.47.12.png)
-![mindmap](/mindmap/Tell%20el%20Ghaba.png)
 
 ### What is this repository for?
 
 * Quick summary
   A working version to embed pdfs inside a bigger pdf
+  <BR></BR>
+  ![mindmap](/mindmap/Tell%20el%20Ghaba.png)
+  > Preliminar tools gathered across times
 
 ### Code of Conduct
 
