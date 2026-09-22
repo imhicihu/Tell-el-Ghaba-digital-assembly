@@ -1,3 +1,9 @@
+### Bash script
+
+```javascript
+<script src="https://gist.github.com/imhicihu/f14b10418b332a7aeb854655f1683f0b.js"></script>
+```
+
 ### File list
 
 ```
