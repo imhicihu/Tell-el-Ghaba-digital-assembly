@@ -9,7 +9,7 @@
 
 ## Rationale / Motivación
 
-A bunch of `.pdf` files containing a plethora of profiles and a master file
+A bunch of `.pdf` files containing a plethora of plans and a master file
 ![googledrive.png](/images/Screenshot_2026-08-29_19.47.12.png)
 
 ### What is this repository for?
