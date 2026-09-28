@@ -1,4 +1,4 @@
-* Software
+### Software
     - [Duplicati](https://www.duplicati.com/) (open-source backup software)
     - [ImageOptim](https://github.com/ImageOptim/ImageOptim): image optimization
 	- [Sqoosh](https://squoosh.app/): Image compressor
@@ -9,5 +9,5 @@
     <br> </br>
     - [ScriptUI Dialog Builder](https://scriptui.joonas.me/)
 
-* Documentation
+### Documentation
     - [JavaScript Tools Guide CC](https://estk.aenhancers.com/index.html)
